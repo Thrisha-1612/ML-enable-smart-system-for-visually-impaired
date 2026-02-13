@@ -1,0 +1,13 @@
+ultralytics
+opencv-python
+pyttsx3
+speechrecognition
+pyaudio
+twilio
+geocoder
+tk
+numpy
+urllib3
+requests
+torch
+torchvision
