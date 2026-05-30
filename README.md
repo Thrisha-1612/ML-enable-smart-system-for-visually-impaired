@@ -6,7 +6,7 @@ The system detects objects using YOLOv8, provides spoken feedback, allows voice-
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 - Real-time object detection using YOLOv8  
 - Voice feedback for detected surroundings  
@@ -17,7 +17,7 @@ The system detects objects using YOLOv8, provides spoken feedback, allows voice-
 
 ---
 
-## 🧠 Technologies Used
+## Technologies Used
 
 - Python  
 - YOLOv8 (Ultralytics)  
@@ -29,16 +29,16 @@ The system detects objects using YOLOv8, provides spoken feedback, allows voice-
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ```bash
 pip install -r requirements.txt
 
 ---
 
-▶️ Run the System: python main_yolo_detection.py
+ Run the System: python main_yolo_detection.py
 
-🎤 Voice Commands
+ Voice Commands
 
 ---
 
